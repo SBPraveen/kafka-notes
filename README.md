@@ -1,8 +1,6 @@
 # kafka-notes
-<iframe data="kafkaNotes.pdf" type="application/pdf" width="700px" height="700px">
-</iframe>  
 
-[Theory](kafkaNotes.pdf)
+[Theory- hand written notes](kafkaNotes.pdf)
 
 ## Producer
 
